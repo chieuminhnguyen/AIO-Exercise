@@ -1,2 +1,0 @@
-# Draft 
-print("Hello World")
